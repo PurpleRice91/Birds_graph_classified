@@ -1,0 +1,2 @@
+# Birds_graph_classified
+訓練已標註好隻鳥類照片資料，進行300種鳥類照片分類
